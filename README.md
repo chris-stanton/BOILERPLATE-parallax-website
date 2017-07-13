@@ -11,7 +11,7 @@
 ---
 
 ## Description
-###### Parallax website template is mobile responsive and uses HTML5, CSS3 and follows ES6 guidelines.
+##### Parallax website template is mobile responsive and uses HTML5, CSS3 and follows ES6 guidelines.
 
 #### Desktop View:
 ![alt text](./assets/screenshots/desktopone.png)
