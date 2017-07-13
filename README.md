@@ -27,7 +27,7 @@
 
 ---
 
-###### App can be viewed at: https://chris-stanton.herokuapp.com/
+###### App can be viewed at: https://parallax-template.herokuapp.com/
 
 ---
 
