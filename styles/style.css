@@ -80,4 +80,14 @@ body, html {
     background-attachment: scroll;
   }
 
+  .ptext {
+    font-size: 10px;
+    display: inline-block;
+  }
+
+  .ptext .border{
+    display: flex;
+  }
+
+
 }
