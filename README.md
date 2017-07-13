@@ -19,9 +19,11 @@
 ![alt text](./assets/screenshots/desktoptwo.png)
 
 #### Mobile View:
-![alt text](./assets/screenshots/mobileone.png)
+<!-- ![alt text](./assets/screenshots/mobileone.png) -->
+<img src="./assets/screenshots/mobileone.png" width=50%>
 
-![alt text](./assets/screenshots/mobiletwo.png)
+<!-- ![alt text](./assets/screenshots/mobiletwo.png) -->
+<img src="./assets/screenshots/mobiletwo.png" width=50%>
 
 ---
 
