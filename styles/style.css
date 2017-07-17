@@ -14,7 +14,7 @@ body, html {
 
   /*adds matte look*/
   /*opacity: 0.70;*/
-  
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -76,6 +76,22 @@ body, html {
 .ptext .border.trans{
   background-color: transparent;
 }
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0px 0px 0px 0px;
+  color: #ffffff;
+  background-color: #000000;
+  opacity: 0.5;
+  font-size: 14px;
+}
+
+
+
 
 @media(max-width:568px) {
   .pimg1, .pimg2, .pimg3 {
