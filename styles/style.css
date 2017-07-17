@@ -11,7 +11,10 @@ body, html {
 
 .pimg1, .pimg2, .pimg3 {
   position: relative;
-  opacity: 0.70;
+
+  /*adds matte look*/
+  /*opacity: 0.70;*/
+  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -24,17 +27,17 @@ body, html {
 }
 
 .pimg1 {
-  background-image: url('../assets/img/image1.jpg');
+  background-image: url('../assets/img/mpls.png');
   min-height: 100%;
 }
 
 .pimg2 {
-  background-image: url('../assets/img/image2.jpg');
+  background-image: url('../assets/img/stpaul.png');
   min-height: 400px;
 }
 
 .pimg3 {
-  background-image: url('../assets/img/image3.jpg');
+  background-image: url('../assets/img/night.png');
   min-height: 400px;
 }
 
